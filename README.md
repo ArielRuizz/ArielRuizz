@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=300&vCenter=true&width=435&height=25&lines=Hi+there!;I'm+Armando)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Armando</h1>
 <h3 align="center">A passionate software developer from Argentina</h3>
 
 - 🌱 I’m currently learning **Angular**
@@ -16,4 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arielruizz&show_icons=true&locale=en&layout=compact" alt="arielruizz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arielruizz&show_icons=true&locale=en" alt="arielruizz" /></p>
-
