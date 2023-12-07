@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Armando</h1>
 <h3 align="center">A passionate software developer from Argentina</h3>
 
-- 📫 How to reach me **arielrz.dev@gmail.com**
+- 🌱 I’m currently learning **Angular**
+
+- 📫 How to reach me **ruizarmando.ariel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
